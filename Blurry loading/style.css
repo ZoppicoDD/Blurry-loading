@@ -20,10 +20,10 @@ body{
     height:calc(100vh + 60px);
     width:calc(100vw + 60px);
     z-index: -1;
-    filter: blur(0px);
+    f.ilter: blur(0px);
 }
 
 .loading-text{
     font-size: 50px;
     color:#FFF
-}
+}.
